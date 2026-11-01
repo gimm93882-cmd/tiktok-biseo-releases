@@ -8,9 +8,9 @@
 
 | 컴퓨터 | 파일 |
 |---|---|
-| 윈도우 | `틱톡비서-…-win-x64.exe` |
-| 맥 (M1 이후) | `틱톡비서-…-mac-arm64.dmg` |
-| 맥 (인텔) | `틱톡비서-…-mac-x64.dmg` |
+| 윈도우 | `TikBiseo-…-win-x64.exe` |
+| 맥 (M1 이후) | `TikBiseo-…-mac-arm64.dmg` |
+| 맥 (인텔) | `TikBiseo-…-mac-x64.dmg` |
 
 ## 처음 설치할 때
 - **윈도우**: "Windows의 PC 보호" 창 → 「추가 정보」 → 「실행」
